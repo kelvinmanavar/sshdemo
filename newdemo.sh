@@ -8,5 +8,5 @@ zip -m multiplefiles.zip *.txt
 git init /home/ubantu/Downloads/task01
 git add *
 git commit -m "first commit"
-#git remote add origin git@github.com:kelvinmanavar/sshdemo.git
+git remote add origin git@github.com:kelvinmanavar/sshdemo.git
 git push -u origin master
